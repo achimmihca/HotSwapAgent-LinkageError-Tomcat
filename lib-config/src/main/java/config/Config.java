@@ -6,7 +6,10 @@ public class Config
 
     public String getDefaultGreeting()
     {
-        // FIXME: Change here the additional String to break hot-swap
+        // FIXME: To break hot-swap:
+        //  change the added String here,
+        //  then perform "Build > Rebuild Project" in IntelliJ,
+        //  and reload the webpage in your browser.
         return defaultGreeting + "Y";
     }
 
