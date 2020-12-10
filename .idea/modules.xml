@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lib-config/lib-config.iml" filepath="$PROJECT_DIR$/lib-config/lib-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-demo/webapp-demo.iml" filepath="$PROJECT_DIR$/webapp-demo/webapp-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp-demo-root.iml" filepath="$PROJECT_DIR$/webapp-demo-root.iml" />
+    </modules>
+  </component>
+</project>
